@@ -1,0 +1,1541 @@
+{
+  "title": "New feed",
+  "props": {},
+  "categories": [
+    {
+      "title": "Nes",
+      "items": [
+        {
+          "title": "3-D WorldRunner",
+          "longTitle": "3-D WorldRunner (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/3-D%20WorldRunner%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/3-D%20WorldRunner%20(USA).png",
+          "description": "3-D WorldRunner features many elements that are typical of a forward-scrolling rail shooter game, where the player focuses on destroying or dodging onscreen enemies against a scrolling background. 3-D WorldRunner incorporates a distinct third-person view, where the camera angle is positioned behind the main character.\n\nAs WorldRunner, players make their way through eight worlds, battling hostile alien creatures and leaping over bottomless canyons. Each world is divided into different quadrants, and the player must pass through each quadrant before the time counter on the bottom of the game screen reaches zero. In each quadrant, the player can find pillar-like columns that house power-ups, objects that are beneficial or add extra abilities to the game character. At the end of each world's last quadrant is a serpent-like creature which must be defeated to advance. A status bar at the bottom of the screen displays the player's score, the time counter, the world number, the world quadrant, the number of bonus stars (items that increase the player's score count) collected by the player, and the number of lives, or continues, remaining.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F3dbatworru.zip"
+          },
+          "added": 1664077228145
+        },
+        {
+          "title": "3D Block",
+          "longTitle": "3D Block (Asia) (Ja) (RCM Group) (Unl)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/3D%20Block%20(Asia)%20(Ja)%20(RCM%20Group)%20(Unl).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/3D%20Block%20(Asia)%20(Ja)%20(RCM%20Group)%20(Unl).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F3dblock.zip"
+          },
+          "added": 1664077228146
+        },
+        {
+          "title": "8Bit Music Power Final",
+          "longTitle": "8Bit Music Power Final (World) (Aftermarket) (Unl)",
+          "type": "nes",
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitmusic.zip"
+          },
+          "added": 1664077228146
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitmusice.zip"
+          },
+          "type": "nes",
+          "title": "8bit Music Power ENCORE (2017)(RIKI)",
+          "added": 1664077228147
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitpics.zip"
+          },
+          "type": "nes",
+          "title": "8bit Illustrations (2015)(RIKI)",
+          "added": 1664077228148
+        },
+        {
+          "title": "8BIT Rhythm Land",
+          "longTitle": "8BIT Rhythm Land (World) (Aftermarket) (Unl)",
+          "type": "nes",
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitrhylan.zip"
+          },
+          "added": 1664077228149
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitxmas17.zip"
+          },
+          "type": "nes",
+          "title": "8-bit XMAS 2017 (2017)(RetroUSB)",
+          "added": 1664077228149
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitxmas18.zip"
+          },
+          "type": "nes",
+          "title": "8-bit XMAS 2018 (2018)(RetroUSB)",
+          "added": 1664077228150
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitxmas19.zip"
+          },
+          "type": "nes",
+          "title": "8-bit XMAS 2019 (2019)(RetroUSB)",
+          "added": 1664077228151
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitxmas20.zip"
+          },
+          "type": "nes",
+          "title": "8-bit XMAS 2020 (2020)(RetroUSB)",
+          "added": 1664077228152
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8bitxmas21.zip"
+          },
+          "type": "nes",
+          "title": "8-bit XMAS 2021 (2021)(RetroUSB)",
+          "added": 1664077228153
+        },
+        {
+          "title": "8 Eyes",
+          "longTitle": "8 Eyes (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/8%20Eyes%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/8%20Eyes%20(USA).png",
+          "description": "8 Eyes is set in a post-apocalyptic future. Mankind is recovering from hundreds of years of chaos and nuclear war, and civilization is being rebuilt by the Great King, who harnesses the power of the eight jewels. The jewels, known as the 8 Eyes, were formed at the centers of eight nuclear explosions that came close to destroying the Earth. The 8 Eyes have mysterious power which, in the wrong hands, could bring about the end of the world. The Great King's eight power-hungry dukes steal the jewels for themselves and banish the King to the nuclear wastelands, threatening to once again plunge the Earth into war.\n\nThe player controls Orin the Falconer and his fighting falcon Cutrus. His mission is to penetrate the Dukes' eight castles and retrieve the 8 Eyes. With the help of Cutrus, you must fight the Dukes' soldiers, nuclear mutants, and the duke of each castle to retrieve the jewels. After the jewels have been recovered, you must return them to the Altar of Peace so that the Great King may return and finish rebuilding the Earth.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F8eyes.zip"
+          },
+          "added": 1664077228154
+        },
+        {
+          "title": "10-Yard Fight",
+          "longTitle": "10-Yard Fight (USA, Europe)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/10-Yard%20Fight%20(USA%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/10-Yard%20Fight%20(USA%2C%20Europe).png",
+          "description": "The game is viewed in a top-down perspective and is vertical scrolling. The player does not select plays for either offense or defense. On offense, the player simply receives the ball upon the snap and either attempt to run with the quarterback, toss the ball to one of two running backs, or throw the ball to the one long distance receiver - basically the option offense. On defense, the player chooses one of two players to control, and the computer manipulates the others. The ball can also be punted or a field goal can be attempted.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F10yardfight.zip"
+          },
+          "added": 1664077228155
+        },
+        {
+          "title": "720 Degrees",
+          "longTitle": "720 Degrees (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/720%20Degrees%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/720%20Degrees%20(USA).png",
+          "description": "From official materials:\n\"It's just you, your trusty skateboard, and a hundred bucks as you skate, jump, slide, spin and more through four levels of difficulty, picking up loose cash, earning money through events, and finally, earn a ticket to one of the big skate parks! If you're lucky, you'll get to buy some rad equipment to make you the coolest skateboarder alive.\"",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F720degrees.zip"
+          },
+          "added": 1664077228156
+        },
+        {
+          "title": "1942",
+          "longTitle": "1942 (Japan, USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/1942%20(Japan%2C%20USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/1942%20(Japan%2C%20USA).png",
+          "description": "1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the \"Super Ace\" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or \"loop-the-loop\".",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F1942.zip"
+          },
+          "added": 1664077228157
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F1942c.zip"
+          },
+          "type": "nes",
+          "title": "1942 (T-Chi)",
+          "added": 1664077228157
+        },
+        {
+          "title": "1943 - The Battle of Midway",
+          "longTitle": "1943 - The Battle of Midway (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/1943%20-%20The%20Battle%20of%20Midway%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/1943%20-%20The%20Battle%20of%20Midway%20(USA).png",
+          "description": "The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F1943.zip"
+          },
+          "added": 1664077228158
+        },
+        {
+          "title": "1991 Du Ma Racing",
+          "longTitle": "1991 Du Ma Racing (Asia) (Ja) (Idea-Tek) (Unl)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/1991%20Du%20Ma%20Racing%20(Asia)%20(Ja)%20(Idea-Tek)%20(Unl).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/1991%20Du%20Ma%20Racing%20(Asia)%20(Ja)%20(Idea-Tek)%20(Unl).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F1991dumarac.zip"
+          },
+          "added": 1664077228159
+        },
+        {
+          "title": "2010 Street Fighter",
+          "longTitle": "2010 Street Fighter (Japan)",
+          "type": "nes",
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2F2010.zip"
+          },
+          "added": 1664077228160
+        },
+        {
+          "title": "Abadox - The Deadly Inner War",
+          "longTitle": "Abadox - The Deadly Inner War (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Abadox%20-%20The%20Deadly%20Inner%20War%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Abadox%20-%20The%20Deadly%20Inner%20War%20(USA).png",
+          "description": "In the year 5012, the planet known as Abadox is soon eaten by a giant alien organism known as Parasitis. Once the planet has been consumed, the alien takes the form of the entire planet and seeks to devour other planets within the galaxy. The galactic military tries to fight the alien, but to no avail as Parasitis destroys the entire galactic military, except for one hospital ship. It is then discovered that Princess Maria has been devoured as well. The galactic military decides to send out their best fighter, \"Second Lieutenant Nazal\", to attempt to enter Parasitis' body and rescue Princess Maria before it's too late.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fabadox.zip"
+          },
+          "added": 1664077228161
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Factio53vol1stbu.zip"
+          },
+          "type": "nes",
+          "title": "Action 53 vol 1 Streemerz Bundle (HB)",
+          "added": 1664077228162
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Factio53vol2doac.zip"
+          },
+          "type": "nes",
+          "title": "Action 53 vol 2 Double Action (HB)",
+          "added": 1664077228163
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Factio53vol3retw.zip"
+          },
+          "type": "nes",
+          "title": "Action 53 vol 3 Revenge of the Twins (HB)",
+          "added": 1664077228163
+        },
+        {
+          "title": "Action in New York",
+          "longTitle": "Action in New York (Europe)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Action%20in%20New%20York%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Action%20in%20New%20York%20(Europe).png",
+          "description": "It's the year 2029 and humanity faces certain extinction! An alien force led by the Supreme Commander Vile Malmort is positioned to destroy the earth.\nThe President had little time to act. He assembled the greatest scientists from around the globe to stop this menace. From their laboratory came mankind's last hope - the members of S.C.A.T.\nThe Special Cybernetic Attack Team has one goal: the utter destruction of the alien fleet. \"They've sent an armada to conquer us. We've sent two warriors from S.C.A.T... It should be a fair fight.\"",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Factioinnewyor.zip"
+          },
+          "added": 1664077228164
+        },
+        {
+          "title": "Action 52",
+          "longTitle": "Action 52 (USA) (Rev A) (Unl)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Action%2052%20(USA)%20(Rev%20A)%20(Unl).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Action%2052%20(USA)%20(Rev%20A)%20(Unl).png",
+          "description": "Action 52 is an unlicensed multicart consisting of 52 individual and original video games, released in September 1991 for the Nintendo Entertainment System and in May 1993 for the Sega Genesis consoles by Active Enterprises (a Super Nintendo Entertainment System version was advertised in some magazines, but never released). It initially retailed for the comparatively high price of US$199 (or \"less than $4 for each game\"), and became notorious among gamers for the abysmal quality of its games. Many video game collectors value Action 52 for its notoriety and rarity.\n\nThe cartridge states that it contains 52 \"new and original exciting games\". The games cover a variety of genres, although the most common are scrolling shooters and platform games. Examples of scrolling shooters include Star Evil, G-Force, Thrusters, and Megalonia. Some of the platform games available are Ooze, Non Human, Alfred N the Fettuc, and Bubblegum Rossie.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faction52.zip"
+          },
+          "added": 1664077228165
+        },
+        {
+          "title": "Adam & Eve",
+          "longTitle": "Adam & Eve (Asia) (En) (Mega Soft) (Unl)",
+          "type": "nes",
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadameve.zip"
+          },
+          "added": 1664077228166
+        },
+        {
+          "title": "Addams Family, The",
+          "longTitle": "Addams Family, The (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Addams%20Family%2C%20The%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Addams%20Family%2C%20The%20(USA).png",
+          "description": "The Addams Family father and husband, Gomez Addams, as he attempts to save the members of his family who have been kidnapped. They have been stowed away in various locations in the mansion and are protected by a boss of some sort. The manservant Lurch and the severed hand Thing are the only characters not to be kidnapped.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faddamfam.zip"
+          },
+          "added": 1664077228167
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faddamfamc.zip"
+          },
+          "type": "nes",
+          "title": "addams family, the (usa) - castellano v1.0",
+          "added": 1664077228168
+        },
+        {
+          "title": "Addams Family, The - Pugsley's Scavenger Hunt",
+          "longTitle": "Addams Family, The - Pugsley's Scavenger Hunt (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Addams%20Family%2C%20The%20-%20Pugsley's%20Scavenger%20Hunt%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Addams%20Family%2C%20The%20-%20Pugsley's%20Scavenger%20Hunt%20(USA).png",
+          "description": "The plot of Pugsley's Scavenger Hunt centered around Pugsley's attempts to win a scavenger hunt challenge proposed by his sister, Wednesday. His hunt takes him to the bedrooms of each member of the Addams family in order to find one item from each.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faddamfampugsschu.zip"
+          },
+          "added": 1664077228169
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faddamfampugsschuc.zip"
+          },
+          "type": "nes",
+          "title": "addams family, the - pugsley's scavenger hunt (usa) - castellano v1.1",
+          "added": 1664077228169
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvdddf.zip"
+          },
+          "type": "nes",
+          "title": "advanced dungeons & dragons - dragons of flame (t-eng)",
+          "added": 1664077228170
+        },
+        {
+          "title": "Advanced Dungeons & Dragons - Dragons of Flame",
+          "longTitle": "Advanced Dungeons & Dragons - Dragons of Flame (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Advanced%20Dungeons%20%26%20Dragons%20-%20Dragons%20of%20Flame%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Advanced%20Dungeons%20%26%20Dragons%20-%20Dragons%20of%20Flame%20(Japan).png",
+          "description": "While Heroes of the Lance is a faithful representation of the books it is based on, it was a departure from the usual RPG style of most Dungeons & Dragons games, and many players lamented its difficult game play interface which consists of using one character at a time in horizontally-scrolling fighting. Each character has different types of attacks and spells making them more suited to fighting different enemies but they merely act as \"lives\" for the player as in more traditional fighting games, removing one of the main strategies of role-playing games from the game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvdddfj.zip"
+          },
+          "added": 1664077228171
+        },
+        {
+          "title": "Advanced Dungeons & Dragons - DragonStrike",
+          "longTitle": "Advanced Dungeons & Dragons - DragonStrike (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Advanced%20Dungeons%20%26%20Dragons%20-%20DragonStrike%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Advanced%20Dungeons%20%26%20Dragons%20-%20DragonStrike%20(USA).png",
+          "description": "The game is set in Krynn, world of the Dragonlance saga, during the War of the Lance. DragonStrike combined elements of computer role-playing games and flight simulators. The player character is a knight who flies on the back of a metallic dragon equipped with a lance and various magic items (among other things a magic orb that acts as a radar in the game).",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvddds.zip"
+          },
+          "added": 1664077228172
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvdddsc.zip"
+          },
+          "type": "nes",
+          "title": "advanced dungeons & dragons - dragon strike (usa) - castellano v1.0",
+          "added": 1664077228173
+        },
+        {
+          "title": "Advanced Dungeons & Dragons - Heroes of the Lance",
+          "longTitle": "Advanced Dungeons & Dragons - Heroes of the Lance (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Advanced%20Dungeons%20%26%20Dragons%20-%20Heroes%20of%20the%20Lance%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Advanced%20Dungeons%20%26%20Dragons%20-%20Heroes%20of%20the%20Lance%20(USA).png",
+          "description": "While Heroes of the Lance is a faithful representation of the books it is based on, it was a departure from the usual RPG style of most Dungeons & Dragons games, and many players lamented its difficult game play interface which consists of using one character at a time in horizontally-scrolling fighting. Each character has different types of attacks and spells making them more suited to fighting different enemies but they merely act as \"lives\" for the player as in more traditional fighting games, removing one of the main strategies of role-playing games from the game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvddhl.zip"
+          },
+          "added": 1664077228174
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvddhlc.zip"
+          },
+          "type": "nes",
+          "title": "advanced dungeons & dragons - heroes of the lance (usa) - castellano v1.0",
+          "added": 1664077228174
+        },
+        {
+          "title": "Advanced Dungeons & Dragons - Hillsfar",
+          "longTitle": "Advanced Dungeons & Dragons - Hillsfar (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Advanced%20Dungeons%20%26%20Dragons%20-%20Hillsfar%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Advanced%20Dungeons%20%26%20Dragons%20-%20Hillsfar%20(USA).png",
+          "description": "Hillsfar is a single-hero role-playing game (in comparison to other Advanced Dungeons & Dragons role-playing games, where the player usually controls a group of characters). A combination of first person perspective (when traveling in the city of Hillsfar) and third person perspective (usually in some action-style mini-quests) viewpoints.\n\nAs a would-be-hero, four classes are available in a randomly generated mission-based plot: fighter, thief, cleric, or magic-user. Each class to a certain extent, have different assigned quests given by each respective guild.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvddhllfr.zip"
+          },
+          "added": 1664077228175
+        },
+        {
+          "title": "Advanced Dungeons & Dragons - Pool of Radiance",
+          "longTitle": "Advanced Dungeons & Dragons - Pool of Radiance (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Advanced%20Dungeons%20%26%20Dragons%20-%20Pool%20of%20Radiance%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Advanced%20Dungeons%20%26%20Dragons%20-%20Pool%20of%20Radiance%20(USA).png",
+          "description": "Pool of Radiance takes place in the Forgotten Realms fantasy world. The main setting is the city of Phlan, located on the northern shore of the Moonsea, situated between Zhentil Keep and Melvaunt. The party begins in the civilized section of \"New Phlan\" that is governed by a council. This portion of the city hosts businesses, including shopkeepers who sell holy items for each temple's worshipers, a jewelry shop, and retailers who provide arms and armor. A party can also contract with the clerk of the city council for various commissions; proclamations fastened to the halls within City Hall offer bits of information to aid the party. These coded clues can be deciphered by using the Adventurer's Journal, included with the game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvddpor.zip"
+          },
+          "added": 1664077228176
+        },
+        {
+          "title": "Adventures of Bayou Billy, The",
+          "longTitle": "Adventures of Bayou Billy, The (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Bayou%20Billy%2C%20The%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Bayou%20Billy%2C%20The%20(USA).png",
+          "description": "The player takes control of the title character, Billy West, who must fight save to his girlfriend Annabelle Lane from the gang of Godfather Gordon. There are a total of ten stages in all: six side-scrolling beat-em-up stages (or street fighting stages, as the game actually dubs them), two light gun shooting (shoot-'em-up) stages, and two action driving stages.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenbaybil.zip"
+          },
+          "added": 1664077228177
+        },
+        {
+          "title": "Adventures of Dino Riki",
+          "longTitle": "Adventures of Dino Riki (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Dino%20Riki%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Dino%20Riki%20(USA).png",
+          "description": "Somewhere in the land of dinosaurs, a hero known as Dino-Riki sets out to battle against the beasts of the ancient times and prove man's right to survival amongst evolution. You control Dino-Riki from a top-down perspective as the screen scrolls towards the top. Dino Riki must shoot the enemies in his way as well as leap over pits and avoid obstacles. His chances improve when he obtains weapon power-ups such as fireballs or boomerangs. Angel Wings also help and let Dino Riki fly above the ground. At the end of each level, Dino-Riki faces off against a boss creature.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvendinrik.zip"
+          },
+          "added": 1664077228177
+        },
+        {
+          "title": "Adventures of Gilligan's Island, The",
+          "longTitle": "Adventures of Gilligan's Island, The (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Gilligan's%20Island%2C%20The%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Gilligan's%20Island%2C%20The%20(USA).png",
+          "description": "\"Okay little buddy, you just stay right behind your old pal the Skipper and everything's gonna be just fine. All we have to do is follow these clues and find the magic stone tablet and we can get off this forsaken island once and for all. So Gilligan, please try not to mess things up just this one time. Stay away from the quicksand and don't go wandering off into any dark caves. Can you promise me that, little buddy? Little buddy? Now where has he gone to? Gilligan, get out of that tree and stop messing around!! OK, just walk right in my footsteps and don't cause any more trouble or we could be stuck doing reruns forever! OK, little buddy? Gilligan? Gilligan!!\"",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvengilsisl.zip"
+          },
+          "added": 1664077228178
+        },
+        {
+          "title": "Adventures in the Magic Kingdom",
+          "longTitle": "Adventures in the Magic Kingdom (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20in%20the%20Magic%20Kingdom%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20in%20the%20Magic%20Kingdom%20(USA).png",
+          "description": "The game places you as a non-choosable main character. Goofy left the golden key for the castle gate inside, and Mickey Mouse asks your help to find six silver keys needed to open the Cinderella Castle gate and allow the Disney parade to begin. The player must complete five different stages, modeled after rides in Disney theme parks, as well as a trivia quest in order to retrieve the keys. Following this, Mickey congratulates the player and the parade begins.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadveninmagkin.zip"
+          },
+          "added": 1664077228179
+        },
+        {
+          "title": "Adventure Island 3",
+          "longTitle": "Adventure Island 3 (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventure%20Island%203%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventure%20Island%203%20(USA).png",
+          "description": "The gameplay and the design haven't much changed since Adventure Island II.  There is a world map, you can choose items before starting a level, the levels themselves are quite short (unlike Adventure Island, where each large level contained several stages).  You perform standard \"adventure island\" activities: ride various types of dinosaurs, throw boomerangs at snails, birds, snakes and skulls, collect grapes and apples, jump over stones and, of course, ride your old trusty skateboard.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenisl3.zip"
+          },
+          "added": 1664077228180
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenisl3c.zip"
+          },
+          "type": "nes",
+          "title": "adventure island iii (usa) - castellano v1.1",
+          "added": 1664077228181
+        },
+        {
+          "title": "Adventure Island II",
+          "longTitle": "Adventure Island II (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventure%20Island%20II%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventure%20Island%20II%20(USA).png",
+          "description": "Soar into action with Adventure Island II. That Evil Witch Doctor's just snatched your favorite lady. And you've got to battle your way past EIGHT treacherous islands to get her back.\nCombat prehistoric monsters -- some of the creepiest, fire-spitting critters ever to slither across a video screen! Survive molten volcanoes. Dodge giant scorpions and king cobras. And the action gets even crazier with a new vertical/horizontal scroll, while stage select lets you control play.\nSo sharpen your axe, slip on a leopard skin, and take off for ADVENTURE ISLAND II. It's gonna be a wild ride!!!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenislii.zip"
+          },
+          "added": 1664077228181
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenisliic.zip"
+          },
+          "type": "nes",
+          "title": "adventure island ii (usa) - castellano v1.0",
+          "added": 1664077228182
+        },
+        {
+          "title": "Adventure Island II",
+          "longTitle": "Adventure Island II (USA) (Beta)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventure%20Island%20II%20(USA)%20(Beta).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventure%20Island%20II%20(USA)%20(Beta).png",
+          "description": "Soar into action with Adventure Island II. That Evil Witch Doctor's just snatched your favorite lady. And you've got to battle your way past EIGHT treacherous islands to get her back.\nCombat prehistoric monsters -- some of the creepiest, fire-spitting critters ever to slither across a video screen! Survive molten volcanoes. Dodge giant scorpions and king cobras. And the action gets even crazier with a new vertical/horizontal scroll, while stage select lets you control play.\nSo sharpen your axe, slip on a leopard skin, and take off for ADVENTURE ISLAND II. It's gonna be a wild ride!!!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenisliiu.zip"
+          },
+          "added": 1664077228183
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenisliv.zip"
+          },
+          "type": "nes",
+          "title": "Adventure Island IV (T-Eng)",
+          "added": 1664077228184
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenislivc.zip"
+          },
+          "type": "nes",
+          "title": "adventure island iv (japan) - castellano v1.0",
+          "added": 1664077228184
+        },
+        {
+          "title": "Takahashi Meijin no Bouken-jima IV",
+          "longTitle": "Takahashi Meijin no Bouken-jima IV (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Takahashi%20Meijin%20no%20Bouken-jima%20IV%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Takahashi%20Meijin%20no%20Bouken-jima%20IV%20(Japan).png",
+          "description": "Adventure Island IV is a Famicom exclusive video game (i.e.: It was never released in America nor Europe on the NES). It is known as the last official video game ever to be released on the console - almost four years after the Super Famicom was initially released and 11 years after the Famicom was released.\n\nThe game, while still a sidescroller, is wildly different from the three previous games that were released on the console. It is more inline with games such as Metroid, as it's less of a platformer and more of an action-adventure video game. The next game in the series, Super Adventure Island II, was very similar to this title. Currently, English speaking fans of the series can play the game via a translated patch.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenislivj.zip"
+          },
+          "added": 1664077228185
+        },
+        {
+          "title": "Adventures of Lolo",
+          "longTitle": "Adventures of Lolo (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Lolo%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Lolo%20(USA).png",
+          "description": "Adventures of Lolo is a puzzle game, and each level is a castle room. The goal in each room is to collect all the hearts. It is not always easy, because some hearts are blocked by enemies who will shoot you when you cross their path horizontally or vertically (or both). Once you collect all the hearts, a treasure chest will open and activate all the creatures in the room, even those who were not hostile until now. You must quickly cross the room to the exit which is now available to go to the next room. The game contains 50 rooms in total.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenlol.zip"
+          },
+          "added": 1664077228186
+        },
+        {
+          "title": "Adventures of Lolo 2",
+          "longTitle": "Adventures of Lolo 2 (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Lolo%202%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Lolo%202%20(USA).png",
+          "description": "Adventures of Lolo 2 is a sequel to Adventures of Lolo (NES). Once again, the brave blue ball-like Lolo has to save the princess from the evil demons, who kidnapped her and imprisoned her in a high tower. Solve puzzles to proceed from room to room. Push tiles, eat hearts, turn green dragons into white eggs, and protect yourself from enemies firing at you and chasing you all over the room.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenlol2.zip"
+          },
+          "added": 1664077228186
+        },
+        {
+          "title": "Adventures of Lolo 3",
+          "longTitle": "Adventures of Lolo 3 (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Lolo%203%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Lolo%203%20(USA).png",
+          "description": "From the Adventures of Lolo 3 manual:\nLolo, Lala and their friends have lived peacefully for many years, ever since the defeat of the Great Devil (in The Adventures of Lolo 2). But suddenly his son and heir, the new King of Eggerland, launched a hollow capsule filled with a strange potion that turns the inhabitants of Lolo and Lala's tiny kingdom to stone. Only Lolo and Lala, basking in the sun at the edge of the lake between the two kingdoms, were spared this horrible fate. Brave in the face of adversity, our hero and heroine set out together to defeat the evil King and cast off his spell. Only you can help our brave pair now",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenlol3.zip"
+          },
+          "added": 1664077228187
+        },
+        {
+          "title": "Adventures of Rad Gravity, The",
+          "longTitle": "Adventures of Rad Gravity, The (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Rad%20Gravity%2C%20The%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Rad%20Gravity%2C%20The%20(USA).png",
+          "description": "You are Rad Gravity, a futuristic heroic spaceman. A mad scientist disrupts the peaceful universe and it is your job to visit various planets to re-establish contact between all the worlds. Sights vary between verdant planets, lava pits and hazardous jumps, with gravity variations and craters.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenradgra.zip"
+          },
+          "added": 1664077228188
+        },
+        {
+          "title": "Adventures of Rocky and Bullwinkle and Friends, The",
+          "longTitle": "Adventures of Rocky and Bullwinkle and Friends, The (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Rocky%20and%20Bullwinkle%20and%20Friends%2C%20The%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Rocky%20and%20Bullwinkle%20and%20Friends%2C%20The%20(USA).png",
+          "description": "The game consists of seven levels that take you through various locales: A Swiss Alps-style mountain, a cavern, a mine, a submarine, a haunted ship, a port town, and a castle. Mini-games were available at certain points that allowed you to collect extra lives. These mini-games were Peabody and Sherman, where you controlled Sherman and blew bubble gum bubbles to clog a dragon's mouth, and Dudley Do-Right, where you rode a horse and avoided an ever-approaching train which was driven by Snidely Whiplash.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvenrocandbulandfr.zip"
+          },
+          "added": 1664077228189
+        },
+        {
+          "title": "Adventures of Tom Sawyer",
+          "longTitle": "Adventures of Tom Sawyer (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventures%20of%20Tom%20Sawyer%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventures%20of%20Tom%20Sawyer%20(USA).png",
+          "description": "Tom Sawyer's famous literary exploits come to life in this adventure where you play Tom Sawyer (or Huck Finn in a 2 player game). The adventure begins in Tom's dream while he sleeps in school.\n\nControl in this typical platform game consists of jumping and throwing rocks. Avoid many obstacles such as rolling barrels; defeat persistent enemies such as pirates, mice, and even a giant octopus. Help Tom navigate down the Mississippi River, through forests, haunted houses, and the sky above.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadventomsaw.zip"
+          },
+          "added": 1664077228190
+        },
+        {
+          "title": "Adventure Island",
+          "longTitle": "Adventure Island (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Adventure%20Island%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Adventure%20Island%20(USA).png",
+          "description": "You just found out that Princess Leilani was kidnapped by the Evil Witch Doctor and taken to Adventure Island in the South Pacific.\n\nYou land on Adventure Island without weapons or food. The island is thick with tropical forest, mountains and caves. Hidden on the island are your skateboard, axe, food and other helpful tools you must find by exploring the island.\n\nBetter find the weapons and food quickly because you will need them to fight the Witch Doctor's spiders, snakes, bats and demons. The Evil Witch Doctor has set lots of traps for you before you can face him one on one. Are you up for the challenge?! Can you live through Adventure Island to save Princess Leilani?!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadventureisland.zip"
+          },
+          "added": 1664077228191
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadventureislandc.zip"
+          },
+          "type": "nes",
+          "title": "adventure island (usa) - castellano v1.0",
+          "added": 1664077228191
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvpanzer.zip"
+          },
+          "type": "nes",
+          "title": "Adventures of Panzer, The v1.3 (2021)(PixelCraft)",
+          "added": 1664077228192
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fadvpanzer2.zip"
+          },
+          "type": "nes",
+          "title": "Adventures of Panzer 2, The v1.1 (2022)(PixelCraft)",
+          "added": 1664077228193
+        },
+        {
+          "title": "After Burner",
+          "longTitle": "After Burner (USA) (Unl)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/After%20Burner%20(USA)%20(Unl).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/After%20Burner%20(USA)%20(Unl).png",
+          "description": "The game allows the player to control a F-14 Tomcat jet which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the Sega Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fafterburner.zip"
+          },
+          "added": 1664077228194
+        },
+        {
+          "title": "After Burner",
+          "longTitle": "After Burner (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/After%20Burner%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/After%20Burner%20(Japan).png",
+          "description": "The game allows the player to control a F-14 Tomcat jet which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the Sega Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fafterburnerii.zip"
+          },
+          "added": 1664077228194
+        },
+        {
+          "title": "Air Fortress",
+          "longTitle": "Air Fortress (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Air%20Fortress%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Air%20Fortress%20(USA).png",
+          "description": "The Federation of Intergalactic Powers is under threat by gigantic fortress spaceships which have suddenly appeared and destroyed nearby civilization. When conventional defense tactics fail, the Federation looks to find a specially selected person, Hal Bailman and equip him with a special \"Lightship\". His mission will to be to fly through the defenses of the eight known Air Fortresses and dock at the airlock. Then he must travel through the fortress in only a spacesuit to find and destroy the central core. Once the central core is destroyed, Hal must then quickly find the emergency lightship and escape before the fortress explodes.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fairfortress.zip"
+          },
+          "added": 1664077228195
+        },
+        {
+          "title": "Airwolf",
+          "longTitle": "Airwolf (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Airwolf%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Airwolf%20(USA).png",
+          "description": "The game's manual included the following description:\nFrom the outside, Airwolf looks like a sophisticated executive helicopter. Slick. Self-contained. Harmless. Which means it can slip in and out of airports without causing much suspicion.\nBut from the inside, its true military strength is revealed; walls of computerized controls, a satellite tracking system for locating enemies and allies, and a weapons guidance system for launching missiles and firing machine guns.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fairwolf.zip"
+          },
+          "added": 1664077228196
+        },
+        {
+          "title": "Airwolf",
+          "longTitle": "Airwolf (Japan) (Kyugo)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Airwolf%20(Japan)%20(Kyugo).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Airwolf%20(Japan)%20(Kyugo).png",
+          "description": "The game's manual included the following description:\nFrom the outside, Airwolf looks like a sophisticated executive helicopter. Slick. Self-contained. Harmless. Which means it can slip in and out of airports without causing much suspicion.\nBut from the inside, its true military strength is revealed; walls of computerized controls, a satellite tracking system for locating enemies and allies, and a weapons guidance system for launching missiles and firing machine guns.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fairwolfj.zip"
+          },
+          "added": 1664077228197
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fairwolft.zip"
+          },
+          "type": "nes",
+          "title": "Airwolf (T-eng)",
+          "added": 1664077228197
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakira.zip"
+          },
+          "type": "nes",
+          "title": "Akira (T-Eng)",
+          "added": 1664077228198
+        },
+        {
+          "title": "Akira",
+          "longTitle": "Akira (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Akira%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Akira%20(Japan).png",
+          "description": "Akira is a visual novel adventure game based on Akira, the 1988 animated movie version of Katsuhiro Otomo's manga, Akira. It was released in 1988 by Taito for the Nintendo Famicom console exclusively in Japan. The player takes the role of Kaneda, who begins the game when his motorcycle gang is taken into police custody after the abduction of their friend Tetsuo by the military.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakiraj.zip"
+          },
+          "added": 1664077228198
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakumaden.zip"
+          },
+          "type": "nes",
+          "title": "Akumajou Densetsu (T-Eng)",
+          "added": 1664077228199
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakumadenc.zip"
+          },
+          "type": "nes",
+          "title": "Akumajou Densetsu (T-Chi, v2.3)",
+          "added": 1664077228200
+        },
+        {
+          "title": "Akumajou Densetsu",
+          "longTitle": "Akumajou Densetsu (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Akumajou%20Densetsu%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Akumajou%20Densetsu%20(Japan).png",
+          "description": "Castlevania III abandons the adventure game elements of its immediate predecessor and returns to the platform game roots of the first Castlevania title. Unlike Castlevania, however, Castlevania III is not strictly linear: Trevor, the main character, can be assisted by one of three possible assistant characters, and after completing the first level, and at several other points throughout the game, the player is given a choice of paths to follow. The choices made by the player in these circumstances can have a profound impact on how the game unfolds. There are 15 stages in total.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakumadenj.zip"
+          },
+          "added": 1664077228200
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakumadenjc.zip"
+          },
+          "type": "nes",
+          "title": "akumajou densetsu (japan) - castellano v1.1",
+          "added": 1664077228201
+        },
+        {
+          "title": "Akumajou Dracula",
+          "longTitle": "Akumajou Dracula (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Akumajou%20Dracula%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Akumajou%20Dracula%20(Japan).png",
+          "description": "If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakumajoudracula.zip"
+          },
+          "added": 1664077228202
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakumajoudraculac.zip"
+          },
+          "type": "nes",
+          "title": "Akumajou Dracula (T-Chi)",
+          "added": 1664077228202
+        },
+        {
+          "title": "Akumajou Special - Boku Dracula-kun",
+          "longTitle": "Akumajou Special - Boku Dracula-kun (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Akumajou%20Special%20-%20Boku%20Dracula-kun%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Akumajou%20Special%20-%20Boku%20Dracula-kun%20(Japan).png",
+          "description": "The self-proclaimed Demon King, Kid Dracula, has awoken from a long sleep, only to discover that the demon Galamoth has challenged him. Swiping his father's cape, it is then up to Kid Dracula to set out on an adventure to destroy the monster, and retake his throne. After battling through dangers and demons, Kid Dracula defeats Galamoth. This causes him to become famous throughout the land, with all the monsters in Transylvania showing up at his castle wanting to be his friend.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fakumaspe.zip"
+          },
+          "added": 1664077228203
+        },
+        {
+          "title": "Aladdin",
+          "longTitle": "Aladdin (Europe)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Aladdin%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Aladdin%20(Europe).png",
+          "description": "The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faladdin.zip"
+          },
+          "added": 1664077228204
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faladdin4.zip"
+          },
+          "type": "nes",
+          "title": "Aladdin 4 (Unl)",
+          "added": 1664077228204
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faladdinc.zip"
+          },
+          "type": "nes",
+          "title": "disney's aladdin (europe) - castellano v1.0",
+          "added": 1664077228205
+        },
+        {
+          "title": "Alfombra Magica, La",
+          "longTitle": "Alfombra Magica, La (Spain) (Rev 1) (Gluk Video) (Unl)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Alfombra%20Magica%2C%20La%20(Spain)%20(Rev%201)%20(Gluk%20Video)%20(Unl).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Alfombra%20Magica%2C%20La%20(Spain)%20(Rev%201)%20(Gluk%20Video)%20(Unl).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falfommagla.zip"
+          },
+          "added": 1664077228206
+        },
+        {
+          "title": "Alfonzo's Arctic Adventure",
+          "longTitle": "Alfonzo's Arctic Adventure (World) (Aftermarket) (Unl)",
+          "type": "nes",
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falfonsarcadv.zip"
+          },
+          "added": 1664077228206
+        },
+        {
+          "title": "Alfred Chicken",
+          "longTitle": "Alfred Chicken (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Alfred%20Chicken%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Alfred%20Chicken%20(USA).png",
+          "description": "Alfred the chicken must rescue his friends and his bird (pardon the pun) Floella from the Meka Chickens. The result is a platform game across differently-themed levels, which are finished by either climbing to the top of the level or killing a boss. Bonus games and secret rooms have been included, and progression sometimes requires solving positional puzzles.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falfredchicken.zip"
+          },
+          "added": 1664077228207
+        },
+        {
+          "title": "Alien 3",
+          "longTitle": "Alien 3 (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Alien%203%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Alien%203%20(USA).png",
+          "description": "Alien is a video game based on the movie sequel of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.\n\nThe game play of the various Alien conversions varies from platform to platform. The Genesis Alien game is a side-scrolling action game with large maze-like levels. In each level, you have to rescue all the trapped prisoners and then make your way to the exit, all while surviving multiple alien attacks.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falien3.zip"
+          },
+          "added": 1664077228208
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falien3c.zip"
+          },
+          "type": "nes",
+          "title": "alien 3 (usa) - castellano v1.1",
+          "added": 1664077228208
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falien3sc.zip"
+          },
+          "type": "nes",
+          "title": "Alien 3 (T-Chi, v1.1)",
+          "added": 1664077228209
+        },
+        {
+          "title": "Alien Syndrome",
+          "longTitle": "Alien Syndrome (USA) (Unl)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Alien%20Syndrome%20(USA)%20(Unl).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Alien%20Syndrome%20(USA)%20(Unl).png",
+          "description": "Two players control two soldiers named Ricky and Mary, who must fight their way through large eight-way scrolling levels rescuing their comrades who are being held by aliens. After they have rescued a certain number of hostages the exit opens and they can pass through it in order to fight the end-of-level guardian. If this monstrosity is defeated, they move onto the next stage. As well as two player simultaneous gameplay, Alien Syndrome features pick-ups which assist the player including better weapons and maps of the current level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faliensyndrome.zip"
+          },
+          "added": 1664077228209
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falmika.zip"
+          },
+          "type": "nes",
+          "title": "Almika The Star Rider Densetsu Gaiden (2021)(Mouse Spirit)",
+          "added": 1664077228210
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falmosthero.zip"
+          },
+          "type": "nes",
+          "title": "Almost Hero (HB)",
+          "added": 1664077228211
+        },
+        {
+          "title": "Alpha Mission",
+          "longTitle": "Alpha Mission (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Alpha%20Mission%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Alpha%20Mission%20(USA).png",
+          "description": "Out beyond, in the galaxy of Tetrenova, a war has been fought that has exhausted resources and even worlds. The survivors band together and look for a new place to rebuild. They choose a seemingly undeveloped planet, Earth.\n\nUsing your defense ship 'Syd,' you must destroy the invading forces and ground targets with bombs. Obtain power-ups to gain energy for ship upgrades that allow you to transform to a more powerful machine. The game itself is a vertical shooter, moving continuously up towards the top of the screen.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falphamission.zip"
+          },
+          "added": 1664077228212
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faltercation.zip"
+          },
+          "type": "nes",
+          "title": "Altercation v0.1 (2021)(Scottlowe)",
+          "added": 1664077228212
+        },
+        {
+          "title": "Alter Ego",
+          "longTitle": "Alter Ego",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Alter%20Ego.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Alter%20Ego.png",
+          "description": "You control a hero who has a phantom twin, his alter ego. When the hero moves, his alter ego moves in a mirrored fashion. In some levels the movements are mirrored horizontally, in others vertically. You can switch between the hero and his alter ego a limited number of times per level.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falterego.zip"
+          },
+          "added": 1664077228213
+        },
+        {
+          "title": "Al Unser Jr. Turbo Racing",
+          "longTitle": "Al Unser Jr. Turbo Racing (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Al%20Unser%20Jr.%20Turbo%20Racing%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Al%20Unser%20Jr.%20Turbo%20Racing%20(USA).png",
+          "description": "The game is a racing video game. The player directs the car using the D-pad, accellerating with A and braking with B. The gauges, speed and several other things can be seen at the bottom of the screen. A turbo boost can be used when necessary, but must be refueled when empty. Hazards such as signposts and other cars must be avoided. Qualifying is held prior to each race, but is difficult because only one lap is given.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Falunsjrturra.zip"
+          },
+          "added": 1664077228213
+        },
+        {
+          "title": "Amagon",
+          "longTitle": "Amagon (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Amagon%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Amagon%20(USA).png",
+          "description": "In Amagon, your mission is to investigate a dangerous, monster-infested island. As Amagon, you begin the game with only a machine gun and a limited amount of ammo to protect yourself from the inhabitants of the island. Gameplay is an arcade style platform game with six levels, each with a variety of creatures and a large boss at the end. When you destroy an enemy, a power up will sometimes be left behind. Collecting these can give you extra points, an extra life, more ammo, or a mega key. If you have enough points and collect a mega key, you then have the ability to transform into Megagon. In this form, you are larger in size, can jump further, and have increased strength. You start the transformation with an amount of mega points; each time a creature injures you, points are lost. When all of the mega points are gone you will transform back into your normal size.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Famagon.zip"
+          },
+          "added": 1664077228214
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Famazorundie.zip"
+          },
+          "type": "nes",
+          "title": "Amazons Running Diet (USA)",
+          "added": 1664077228215
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Famazorundiej.zip"
+          },
+          "type": "nes",
+          "title": "Amazons Running Diet (Japan)",
+          "added": 1664077228215
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Famericandream.zip"
+          },
+          "type": "nes",
+          "title": "American Dream (T-Eng)",
+          "added": 1664077228216
+        },
+        {
+          "title": "American Dream",
+          "longTitle": "American Dream (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/American%20Dream%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/American%20Dream%20(Japan).png",
+          "description": "The player must earn money in order to become the wealthiest gambler in the world. The game, set in New York City, is considered a spin-off from the Pachio-kun franchise. Al Capone has a cameo role in this game even though he lived about one thousand miles to the west (Chicago) in real life.\nRoads, taxis and automobiles are not portrayed in the game. However, a black limousine that escorts the player from the air force base to the final casino is portrayed as driving on grass. This is in direct opposition to the real New York City where the majority of the surface is concrete (either as roads, parking lots, or as foundations for the buildings). Only parks and some older residential districts use grass in their design in the real world. Buildings are either shown as dilapidated tenements, shiny towers, or as flashy casinos.\nAn English language translation was made in 2007 by a ROM hacker who goes by the nickname of \"Pale Dim.\" Using the game's upper case letters that resemble the Joystix font, the English translation allows players in English-speaking countries to better understand the game. One of the changes made was to change the explosion sound from the Japanese Bom to the English Boom.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Famericandreamj.zip"
+          },
+          "added": 1664077228217
+        },
+        {
+          "title": "American Gladiators",
+          "longTitle": "American Gladiators (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/American%20Gladiators%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/American%20Gladiators%20(USA).png",
+          "description": "American Gladiators is licensed from the popular TV show of the same name. It features a series of events testing players' strength, speed and skill against a trained team of ten 'Gladiators', five male and five female. The female characters are Ice, Gold, Lace, Blaze and Zap, most of them know by their bodybuilding achievements. Main male characters are Turbo, Nitro (he featured several US National TV commercials), Gemini, Thunder and Laser (Mr. Montana on 1986).",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Famerigla.zip"
+          },
+          "added": 1664077228217
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fanguna.zip"
+          },
+          "type": "nes",
+          "title": "Anguna - Scourge of the Goblin King (2021)(The 6502 Collective)",
+          "added": 1664077228218
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fanimalblk.zip"
+          },
+          "type": "nes",
+          "title": "Animal Blockes (200X)(Unknown)",
+          "added": 1664077228218
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fanimclip.zip"
+          },
+          "type": "nes",
+          "title": "Animal Clipper (2021)(Okunyon)",
+          "added": 1664077228219
+        },
+        {
+          "title": "Kekkyoku Nankyoku Daibouken",
+          "longTitle": "Kekkyoku Nankyoku Daibouken (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Kekkyoku%20Nankyoku%20Daibouken%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Kekkyoku%20Nankyoku%20Daibouken%20(Japan).png",
+          "description": "Antarctic Adventure, known in Japan as Kekkyoku Nankyoku Daibken is a video game developed by Konami in 1983 for MSX, and later for video game consoles, such as NES. The player takes the role of an Antarctic penguin, racing to disparate research stations owned by different countries in Antarctica (excluding the USSR).\n\nThe gameplay is similar to Sega's Turbo, but plays at a much slower pace, and features platform game elements. The penguin, later named Penta, must reach the next station before time runs out while avoiding sea lions and breaks in the ice. Throughout the levels, fish jump out of ice holes and can be caught for bonus points. The game, like many early video games, has no ending  when the player reaches the last station, the game starts from the first level again, but with increased difficulty.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fantaradv.zip"
+          },
+          "added": 1664077228219
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fantenna.zip"
+          },
+          "type": "nes",
+          "title": "Antenna Antics (2021)(FG Software)",
+          "added": 1664077228220
+        },
+        {
+          "title": "Anticipation",
+          "longTitle": "Anticipation (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Anticipation%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Anticipation%20(USA).png",
+          "description": "Bored with board games? Tired of pursuing trivia? Had your fill of ethical questions? Then you're ready for ANTICIPATION. This zany, unpredictable, totally wacked-out video board game begins with a giant connect-the-dots puzzle. Suddenly, a video pencil starts connecting the dots and, before you know it, you're in a maddening race against the clock, trying to solve the puzzle. Is it an Igloo? A Penguin? Whatever it is, you - and all your friends - will have a great time trying to guess what the pencil is drawing. Guess right and you'll get a crack at the really tough puzzles - no dots or clues, just the pencil drawing a picture. Think you're up to it? Then challenge your friends. Or take on the computer. Either way, this off-the-floor board game will challenge you, excite you and generally drive you crazy for years to come.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fanticipation.zip"
+          },
+          "added": 1664077228221
+        },
+        {
+          "title": "AO",
+          "longTitle": "AO (World) (Aftermarket) (Unl)",
+          "type": "nes",
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fao.zip"
+          },
+          "added": 1664077228221
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faod.zip"
+          },
+          "type": "nes",
+          "title": "AO (2016)(2nd Dimension, Digital)",
+          "added": 1664077228222
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farcher.zip"
+          },
+          "type": "nes",
+          "title": "Archer, The (200X)(Power Joy)",
+          "added": 1664077228222
+        },
+        {
+          "title": "Archon",
+          "longTitle": "Archon (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Archon%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Archon%20(USA).png",
+          "description": "Archon is a strategic board game with some similarities to chess. Two sides, a light one and a dark one, consisting of 18 pieces each compete on a board divided into (9 by 9) squares. You win the game by having one of your units on each of the five powerpoint squares by removing all opposing pieces from the board or by imprisoning the last remaining creature of the opposing side.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farchon.zip"
+          },
+          "added": 1664077228223
+        },
+        {
+          "title": "Arch Rivals - A Basketbrawl!",
+          "longTitle": "Arch Rivals - A Basketbrawl! (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Arch%20Rivals%20-%20A%20Basketbrawl!%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Arch%20Rivals%20-%20A%20Basketbrawl!%20(USA).png",
+          "description": "The full-court action between the Arch Rivals is really hot tonight. Here's Mohawk, taking it to the hoop... POW! He just got nailed in the alley with a right cross! FOUL! FOUL! FOUL!\nWhat?! No Foul? That's right. No Fouls. This is basketball where breaking the rules is part of the rules! If you can't block a shot - knock your opponent's block off. If you can't steal the ball - steal his shorts! But don't think these tactics are enough to win. Arch Rivals still requires real B-ball skills like passing, shooting, ball handling, slam dunks, and 3 point shots.\nBased on the arcade smash hit, Arch Rivals brings all of its hard-hitting \"in your face\" action into your home. Whether you're going for a fast break, dodging food on the court, or crashing the boards 'til they shatter, Arch Rivals isn't just basketball... it's a basketbrawl!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farchriv.zip"
+          },
+          "added": 1664077228224
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fargosnosenshic.zip"
+          },
+          "type": "nes",
+          "title": "Argos no Senshi (T-Chi, v1.11)",
+          "added": 1664077228224
+        },
+        {
+          "title": "Argus",
+          "longTitle": "Argus (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Argus%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Argus%20(Japan).png",
+          "description": "A vertically scrolling shoot 'em up arcade game released by NMK in 1986, licensed to Jaleco. One controls a fighter jet and shoot enemies in the air and on the ground, collect power-ups, and defeat bosses to advance levels. One button is used to shoot missiles and the other is used to shoot a laser that shoots enemies and power-ups on the ground.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fargus.zip"
+          },
+          "added": 1664077228225
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farkaderush.zip"
+          },
+          "type": "nes",
+          "title": "Arkade Rush (HB)(2021)(Nathan Tolbert)",
+          "added": 1664077228225
+        },
+        {
+          "title": "Arkanoid",
+          "longTitle": "Arkanoid (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Arkanoid%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Arkanoid%20(USA).png",
+          "description": "The player controls the \"Vaus\", a space vessel that acts as the game's \"paddle\" which prevents a ball from falling from the playing field, attempting to bounce it against a number of bricks. The ball striking a brick causes the brick to disappear. When all the bricks are gone, the player goes to the next level, where another pattern of bricks appear.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farkanoid.zip"
+          },
+          "added": 1664077228226
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farkanoidii.zip"
+          },
+          "type": "nes",
+          "title": "Arkanoid II (Japan)",
+          "added": 1664077228227
+        },
+        {
+          "title": "Arkista's Ring",
+          "longTitle": "Arkista's Ring (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Arkista's%20Ring%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Arkista's%20Ring%20(USA).png",
+          "description": "The Elven ring of Arkista has been stolen by the villainous Shogun, which has cast the entire Elven Kingdom into darkness. The only hope for the Elves is that the strong warrior Christine, equipped with only a bow, can travel throughout the Kingdom, and retrieve the ring.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farkistasring.zip"
+          },
+          "added": 1664077228227
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farmadillo.zip"
+          },
+          "type": "nes",
+          "title": "Armadillo (T-eng)",
+          "added": 1664077228228
+        },
+        {
+          "title": "Armadillo",
+          "longTitle": "Armadillo (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Armadillo%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Armadillo%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farmadilloj.zip"
+          },
+          "added": 1664077228228
+        },
+        {
+          "title": "Armed for Battle",
+          "longTitle": "Armed for Battle (World) (Demo) (Aftermarket) (Unl)",
+          "type": "nes",
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farmedbat.zip"
+          },
+          "added": 1664077228229
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farmedbatle.zip"
+          },
+          "type": "nes",
+          "title": "Armed for Battle - Limited Edition (2014) (1010 Howe)",
+          "added": 1664077228229
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farmeddrafanvil.zip"
+          },
+          "type": "nes",
+          "title": "Armed Dragon Fantasy Villgust (T-Eng)",
+          "added": 1664077228230
+        },
+        {
+          "title": "Kouryuu Densetsu Villgust Gaiden",
+          "longTitle": "Kouryuu Densetsu Villgust Gaiden (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Kouryuu%20Densetsu%20Villgust%20Gaiden%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Kouryuu%20Densetsu%20Villgust%20Gaiden%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farmeddrafanvilj.zip"
+          },
+          "added": 1664077228231
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Farmwrestl.zip"
+          },
+          "type": "nes",
+          "title": "Arm Wrestling Classic, The (2022)(Fista Games)",
+          "added": 1664077228231
+        },
+        {
+          "title": "Asmik-kun Land",
+          "longTitle": "Asmik-kun Land (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Asmik-kun%20Land%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Asmik-kun%20Land%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fasmikkunland.zip"
+          },
+          "added": 1664077228232
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Faspectstarn.zip"
+          },
+          "type": "nes",
+          "title": "Aspect Star N (2019)(Nicole Express)",
+          "added": 1664077228232
+        },
+        {
+          "title": "Assimilate",
+          "longTitle": "Assimilate",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Assimilate.png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Assimilate.png",
+          "description": "You control an alien spaceship named Ossan. The goal of each level is to maneuver Ossan around a series of deadly projectiles and enemies while kidnapping and assimilating the humans below. Scoop up a human with your tractor beam and use one of four tools to convert them into your alien slave. Then, plant them back in the same building from which you picked them up without dropping them. The level is completed when you have assimilated 100% of the humans.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fassimilate.zip"
+          },
+          "added": 1664077228233
+        },
+        {
+          "title": "Asterix",
+          "longTitle": "Asterix (Europe) (En,Fr,De,Es,It)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Asterix%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Asterix%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "description": "You play as Asterix in standard platforming form, and must progress through several levels while battling with various enemies. The ultimate goal is to rescue your friend Obelix who is being held captive by Julius Caesar, and is in danger of being thrown to the lions. As such is the case, your enemies include Romans, but also the genre classic agitated animals.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fasterix.zip"
+          },
+          "added": 1664077228233
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fastrofan.zip"
+          },
+          "type": "nes",
+          "title": "Astro Fang - Super Machine (T-eng)",
+          "added": 1664077228234
+        },
+        {
+          "title": "Astro Fang - Super Machine",
+          "longTitle": "Astro Fang - Super Machine (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Astro%20Fang%20-%20Super%20Machine%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Astro%20Fang%20-%20Super%20Machine%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fastrofanj.zip"
+          },
+          "added": 1664077228234
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fastronm.zip"
+          },
+          "type": "nes",
+          "title": "Astro Ninja Man (2020)(RiKi)",
+          "added": 1664077228235
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fastronmdx.zip"
+          },
+          "type": "nes",
+          "title": "Astro Ninja Man DX (2022)(RiKi)",
+          "added": 1664077228236
+        },
+        {
+          "title": "Astro Robo Sasa",
+          "longTitle": "Astro Robo Sasa (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Astro%20Robo%20Sasa%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Astro%20Robo%20Sasa%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fastrorobosasa.zip"
+          },
+          "added": 1664077228236
+        },
+        {
+          "title": "Astyanax",
+          "longTitle": "Astyanax (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Astyanax%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Astyanax%20(USA).png",
+          "description": "Astyanax is a side-scrolling platform game. The controls are fairly simple: the A Button makes Astyanax jump, the B Button will attack with an axe called Bash, and a combination of up and attack will perform a special magic attack. The game also contains a few role-playing elements, such as weapons upgrades. It had a unique feature (for the time) of a bar that grows between attacks; the length of the bar determines how much damage Astyanax will do with his next attack. If one attacks rapidly, one's hits will do little damage, much unlike most games where a rapid succession of hits would all be equally damaging. A very similar system would be used in Secret of Mana some years later.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fastyanax.zip"
+          },
+          "added": 1664077228237
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fastyanaxc.zip"
+          },
+          "type": "nes",
+          "title": "Astyanax (T-Chi, v1.1)",
+          "added": 1664077228238
+        },
+        {
+          "title": "Athena",
+          "longTitle": "Athena (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Athena%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Athena%20(USA).png",
+          "description": "In this game, players take the role of Athena, the Goddess of Wisdom, who has grown tired of her life within the castle and ventures into the Fantasy World beyond the castle walls. Strange and fearsome creatures will attack at every turn, but weapons can be found along the way: a ball and chain, a bow and arrow, and a mighty sword. Put on wings and take to the sky, or become a mermaid to explore the ocean depths.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fathena.zip"
+          },
+          "added": 1664077228238
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fatlantisnonazo.zip"
+          },
+          "type": "nes",
+          "title": "Atlantis no Nazo (T-Eng)",
+          "added": 1664077228239
+        },
+        {
+          "title": "Atlantis no Nazo",
+          "longTitle": "Atlantis no Nazo (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Atlantis%20no%20Nazo%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Atlantis%20no%20Nazo%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fatlantisnonazoj.zip"
+          },
+          "added": 1664077228239
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fatrain.zip"
+          },
+          "type": "nes",
+          "title": "a ressha de ikou (t-eng)",
+          "added": 1664077228240
+        },
+        {
+          "title": "A Ressha de Ikou",
+          "longTitle": "A Ressha de Ikou (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/A%20Ressha%20de%20Ikou%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/A%20Ressha%20de%20Ikou%20(Japan).png",
+          "description": "A Ressha de Ikou is a simulation construction game. The title translates to \"Let's Take the A-Train\". Players must use the resources available to them in order to create a bustling railway center and increase their profits as they go.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fatrainj.zip"
+          },
+          "added": 1664077228240
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fattacanigak.zip"
+          },
+          "type": "nes",
+          "title": "Attack Animal Gakuen (T-eng)",
+          "added": 1664077228241
+        },
+        {
+          "title": "Attack Animal Gakuen",
+          "longTitle": "Attack Animal Gakuen (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Attack%20Animal%20Gakuen%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Attack%20Animal%20Gakuen%20(Japan).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fattacanigakj.zip"
+          },
+          "added": 1664077228242
+        },
+        {
+          "title": "Attack of the Killer Tomatoes",
+          "longTitle": "Attack of the Killer Tomatoes (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Attack%20of%20the%20Killer%20Tomatoes%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Attack%20of%20the%20Killer%20Tomatoes%20(USA).png",
+          "description": "The game's protagonist is Chad Finletter, a young boy is on a quest to stop the evil scientist Dr. Putrid T. Gangreen from unleashing his Doomsday Tomato. During his journey he must fight through legions of mutant tomatoes, although this is a feat he will take on alone as the citizens of San Zucchini are too afraid of the mutant tomatoes to aid him.\nMuch like other platform games of its time, the main method of killing the enemies is to jump on them, in this case squashing them, or breaking them into smaller tomato enemies. There are several bosses to take on including Zoltan, Beefstake, Mummato, Fang, Ketchuck and Tomacho.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fattackiltom.zip"
+          },
+          "added": 1664077228242
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Favmahjongclubc.zip"
+          },
+          "type": "nes",
+          "title": "AV Mahjong Club (T-Chi) (Unl)",
+          "added": 1664077228242
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Favpregirfig.zip"
+          },
+          "type": "nes",
+          "title": "AV Pretty Girl Fight (Unl)",
+          "added": 1664077228243
+        },
+        {
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fawakening.zip"
+          },
+          "type": "nes",
+          "title": "Alwa's Awakening (2021)(Elden Pixels)",
+          "added": 1664077228244
+        },
+        {
+          "title": "Alwa's Awakening",
+          "longTitle": "Alwa's Awakening (World) (Demo) (Aftermarket) (Unl)",
+          "type": "nes",
+          "props": {
+            "rom": "//archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fawakeningp.zip"
+          },
+          "added": 1664077228244
+        },
+        {
+          "title": "B-Wings",
+          "longTitle": "B-Wings (Japan)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/B-Wings%20(Japan).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/B-Wings%20(Japan).png",
+          "description": "Battle Wings, known in Japan either as B-Wing, is a vertically scrolling shooter first released as an arcade game by Data East in 1984. The game was ported by Data East to the Family Computer in 1986, and was Data East's very first home release for this platform.\n\nThe game consists of 45 levels (30 in the Family Computer version), and no background story or plot is given. The player controls a ship called the FX-1, and collects power-up parts (called a \"wing\") to progress through the levels and ultimately defeat the Gobunasu armored mobile fortress in the final level. The game consists of two different top-view screen levels, where the player can press the second button to descend to the ground whenever they do not have a power-up. The player is unaffected by attacks from airborne units while they are playing on the ground level, but the ship is automatically brought back into the air after a certain period of time. The player can still be hit by attacks from ground units while they are on the ground level, and can also lose their ship by crashing into obstacles. The 8-way joystick controls the player's movements, and one button is used for shooting, and the other is used for descending to the ground (or un-equipping wings). The background image continues infinitely when the player scrolls in the horizontal directions.\n\nCompleting the final level of the game causes the score counter to increase to 9,999,999 points, which the player can enter as their high score. The player can also score cheap points by equipping and un-equipping their power-up. Pressing the button twice while the un-equipping animation is occurring cause the player to gain 2,000 points. The player gains an extra life every 40,000 points, so it is possible to gain lives almost infinitely. If the player gains over 10,000,000 points in this way before completing the final level, the counter takes over 20 minutes to increase to 99,999,999 points.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/2020_01_06_fbn/roms/nes.zip/nes%2Fbwings.zip"
+          },
+          "added": 1664077474936
+        }
+      ],
+      "longTitle": "Nintendo",
+      "description": "Yuuuup"
+    }
+  ]
+}
